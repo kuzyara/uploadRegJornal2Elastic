@@ -18,6 +18,8 @@
 индексов oncjornalloп* с переопределенным анализатором для некоторых полей, что обеспечивает 
 поиск в формате you-search-as-you-type.
 
+* разбор в исходики через precommit1c --install
+
 Статьи, которые помогли:</br>
 https://www.elastic.co/guide/en/elasticsearch/guide/current/_index_time_search_as_you_type.html</br>
 https://tyvik.ru/posts/elasticsearch/
