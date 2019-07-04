@@ -1,8 +1,8 @@
-PUT _template/onclogteplate
+PUT _template/oneclogtemplate
   {
     "order" : 0,
     "index_patterns" : [
-      "oncjornallo*"
+      "onecjournallog*"
     ],
     "settings" : {
       "index" : {
@@ -320,5 +320,4 @@ PUT _template/onclogteplate
       }
     },
     "aliases" : { }
-  },
-  
+  }
